@@ -1,0 +1,30 @@
+.lingkaran{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #ffff;
+    background-color: indianred;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 30px;
+}
+
+.banner{
+    background: url("https://i.pinimg.com/564x/8c/83/42/8c8342b29b8fae6ea4b5787865ada85c.jpg") 
+    no-repeat center center ;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: rgb(128, 12, 12);
+}
+
+.carousel {
+    width: 900px;
+    height: 600px;
+    margin-left: 250px;
+    
+}
